@@ -1,0 +1,7 @@
+hu\unideb\inf\model\Korhaz.class
+hu\unideb\inf\model\Verado.class
+hu\unideb\inf\Main.class
+hu\unideb\inf\model\JpaVeradoDAO.class
+hu\unideb\inf\controller\ConnectionDB.class
+hu\unideb\inf\MainApp.class
+hu\unideb\inf\model\VeradoDAO.class
